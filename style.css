@@ -1,0 +1,23 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./images/Ayaka.jpg);
+  height: 600px;
+  width: 100%;
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./images/Band.jpg);
+  height: 600px;
+  width: 100%;
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./images/Rita.jpg);
+  height: 600px;
+  width: 100%;
+}
